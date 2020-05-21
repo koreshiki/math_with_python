@@ -6,7 +6,7 @@ x + ---- + ---- + ... + ----
 
 and calculate its value at a certain value of x
 """
-from sympy import Symbol, pprint, init_printing
+from sympy import Symbol, pprint
 
 
 def print_series(n):
